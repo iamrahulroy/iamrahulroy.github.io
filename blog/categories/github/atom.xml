@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Rahul's Blog]]></title>
-  <link href="http://iamrahulroy.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Github | Rahul's Blog]]></title>
+  <link href="http://iamrahulroy.github.io/blog/categories/github/atom.xml" rel="self"/>
   <link href="http://iamrahulroy.github.io/"/>
   <updated>2013-12-09T02:02:28+05:30</updated>
   <id>http://iamrahulroy.github.io/</id>

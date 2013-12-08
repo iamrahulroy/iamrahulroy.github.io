@@ -5,11 +5,12 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>My Octopress Blog</title>
-  <meta name="author" content="Your Name">
+  <title>Rahul's Blog</title>
+  <meta name="author" content="Rahul Roy">
 
   
-  <meta name="description" content=" Blog Archives Recent Posts ">
+  <meta name="description" content="Hello World! This is my very first blog post on this platform. So, here are the reasons why I choose Github pages and Octopress.
+1. Github&rsquo;s &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -21,7 +22,7 @@
   <link rel="canonical" href="http://iamrahulroy.github.io">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <link href="/atom.xml" rel="alternate" title="Rahul's Blog" type="application/atom+xml">
   <script src="/javascripts/modernizr-2.0.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
@@ -36,9 +37,9 @@
 
 <body   >
   <header role="banner"><hgroup>
-  <h1><a href="/">My Octopress Blog</a></h1>
+  <h1><a href="/">Rahul's Blog</a></h1>
   
-    <h2>A blogging framework for hackers.</h2>
+    <h2>I share my hacking experience here.</h2>
   
 </hgroup>
 
@@ -66,6 +67,60 @@
       <div class="blog-index">
   
   
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2013/12/09/hello-world-why-use-github-pages-for-blogging/">Hello World: Why Use Github Pages for Blogging?</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-12-09T01:07:44+05:30" pubdate data-updated="true">Dec 9<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Hello World! This is my very first blog post on this platform.</p>
+
+<p>So, here are the reasons why I choose Github pages and Octopress.
+1. Github&rsquo;s content policy is pretty straight forward.</p>
+
+<ol>
+<li><p>Octopress is very popular among hackers.</p></li>
+<li><p>It&rsquo;s fun to setup blog with github pages using Octopress.</p></li>
+<li><p>Because Wordpress is way too mainstream :P</p></li>
+<li><p>Easy to deploy.</p></li>
+<li><p>Markdown</p></li>
+<li><p>Better control.</p></li>
+<li><p>Vast number of cool plugins.</p></li>
+<li><p>Ruby</p></li>
+<li><p>It&rsquo;s awesome!</p></li>
+</ol>
+
+
+<p>Coming up: How to setup your first blog with github pages and octopress.</p>
+</div>
+  
+  
+
+
+    </article>
+  
   <div class="pagination">
     
     <a href="/blog/archives">Blog Archives</a>
@@ -78,7 +133,40 @@
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
     
+      <li class="post">
+        <a href="/blog/2013/12/09/hello-world-why-use-github-pages-for-blogging/">Hello World: Why Use Github Pages for Blogging?</a>
+      </li>
+    
   </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/iamrahulroy">@iamrahulroy</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'iamrahulroy',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 
@@ -91,7 +179,7 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Your Name -
+  Copyright &copy; 2013 - Rahul Roy -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
