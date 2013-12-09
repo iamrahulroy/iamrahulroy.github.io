@@ -4,7 +4,7 @@
   <title><![CDATA[Rahul's Blog]]></title>
   <link href="http://iamrahulroy.github.io/atom.xml" rel="self"/>
   <link href="http://iamrahulroy.github.io/"/>
-  <updated>2013-12-09T17:33:51+05:30</updated>
+  <updated>2013-12-10T00:21:38+05:30</updated>
   <id>http://iamrahulroy.github.io/</id>
   <author>
     <name><![CDATA[Rahul Roy]]></name>
@@ -27,16 +27,16 @@
 <li><p>Octopress is very popular among hackers.</p></li>
 <li><p>It&rsquo;s fun to setup blog with github pages using Octopress.</p></li>
 <li><p>Because Wordpress is way too mainstream :P</p></li>
-<li><p>Easy to deploy.</p></li>
-<li><p>Markdown</p></li>
-<li><p>Better control.</p></li>
-<li><p>Vast number of cool plugins.</p></li>
-<li><p>Ruby</p></li>
+<li><p>Easy to deploy: You just need to two commands(rake generate and rake deploy) to deploy your changes.</p></li>
+<li><p>Markdown: It&rsquo;s pretty straight forward plus you can even use HTML if you are not comfortable with Markdown syntax.</p></li>
+<li><p>Better control: You don&rsquo;t have to use online interface to blog. You can write post locally in your favorite text editor. How cool is that?</p></li>
+<li><p>Vast number of cool plugins: Specially for code sharing :D</p></li>
+<li><p>Ruby: Built by awesome Rubyists.</p></li>
 <li><p>It&rsquo;s awesome!</p></li>
 </ol>
 
 
-<p>Coming up: How to setup your first blog with github pages and octopress.</p>
+<p>Coming up: How to set up your first blog with github pages and octopress.</p>
 ]]></content>
   </entry>
   
