@@ -16,15 +16,15 @@ So, here are the reasons why I choose Github pages and Octopress.
 
 4. Because Wordpress is way too mainstream :P
 
-5. Easy to deploy.
+5. Easy to deploy: You just need to two commands(rake generate and rake deploy) to deploy your changes.
 
-6. Markdown
+6. Markdown: It's pretty straight forward plus you can even use HTML if you are not comfortable with Markdown syntax.
 
-7. Better control.
+7. Better control: You don't have to use online interface to blog. You can write post locally in your favorite text editor. How cool is that?
 
-8. Vast number of cool plugins.
+8. Vast number of cool plugins: Specially for code sharing :D
 
-9. Ruby
+9. Ruby: Built by awesome Rubyists.
 
 10. It's awesome!
 
